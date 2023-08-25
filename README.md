@@ -14,7 +14,7 @@ En mi recorrido, he desempeñado roles como auxiliar docente y profesor de compu
 ✅ Express
 ✅ Sequelize
 ✅ PostgreSQL
-✅ Git / GitHub
+✅ Git / GitHub		
 
 
 Busco la oportunidad idónea para exhibir mis habilidades, contribuir con mis conocimientos a un equipo y, sobre todo, continuar mi aprendizaje mientras impulso mi trayectoria como desarrollador de software
