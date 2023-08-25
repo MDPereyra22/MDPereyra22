@@ -8,19 +8,12 @@ En mi recorrido, he desempeñado roles como auxiliar docente y profesor de compu
 🎓 Actualmente soy estudiante en HENRY, finalizando mi formación, y cuento con competencias técnicas en:
 
 ✅ Javascript
-
 ✅ Node Js
-
 ✅ React Js
-
 ✅ Redux
-
 ✅ Express
-
 ✅ Sequelize
-
 ✅ PostgreSQL
-
 ✅ Git / GitHub
 
 
